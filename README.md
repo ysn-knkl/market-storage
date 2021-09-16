@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-.env config
+
 =======
 .env config 
 >>>>>>> 723d6d245642016b00f075d7ed097aad24bd5421
