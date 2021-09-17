@@ -1,7 +1,13 @@
 
 =======
+-git clone
+=======
+-npm install
+=======
+
+
 .env config
- 
+
 REACT_APP_API_KEY=
 REACT_APP_AUTH_DOMAIN=
 REACT_APP_DATABASE_URL=
