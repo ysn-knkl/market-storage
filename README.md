@@ -1,7 +1,7 @@
 
 =======
-.env config 
->>>>>>> 723d6d245642016b00f075d7ed097aad24bd5421
+.env config
+ 
 REACT_APP_API_KEY=
 REACT_APP_AUTH_DOMAIN=
 REACT_APP_DATABASE_URL=
