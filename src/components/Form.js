@@ -27,7 +27,7 @@ const FormComponent = ({product, setProduct, handleFormSubmit}) => {
             <span className="design header">design</span>
           </div>
         </div>
-        <h2 className="contact-header">Ürün Ekleme</h2>
+        <h2 className="contact-header">Product Add</h2>
         <Form size="large" onSubmit={handleFormSubmit}>
           <Segment stacked>
             <Form.Input
@@ -64,8 +64,7 @@ const FormComponent = ({product, setProduct, handleFormSubmit}) => {
               required
             />
             <Button color="teal" fluid size="large" type="submit">
-              Add
-              {/* {info?.id ? "Update" : "Add"} */}
+               {product?.id ? "Update" : "Add"} 
             </Button>
           </Segment>
         </Form>
